@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Gitcarbonath
+/src/backend/database.py      @Gitcarbonath
+/src/backend/routers/auth.py  @Gitcarbonath
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Gitcarbonath
